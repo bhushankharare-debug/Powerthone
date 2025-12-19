@@ -331,11 +331,3 @@ server: {
 2. Add machine learning model endpoints (TensorFlow.js, or call external ML service)
 3. Implement confidence intervals and uncertainty quantification
 4. Add Monte Carlo simulations for scenario sensitivity analysis
-
-## License
-
-MIT
-
-## Contact
-
-For questions or support, please refer to the Replit documentation at https://docs.replit.com
