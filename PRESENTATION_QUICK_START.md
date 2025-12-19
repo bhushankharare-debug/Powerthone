@@ -115,7 +115,7 @@ You have **4 comprehensive guides**:
 
 ---
 
-## 💬 Copy-Paste Talking Points
+## 💬 Talking Points
 
 ### Opening Statement (Use This)
 ```
