@@ -1,0 +1,30 @@
+{
+  "confidence": 86.4,
+  "metrics": {
+    "scope1": {
+      "mape": 9.75,
+      "rmse": 5.95,
+      "r2": NaN
+    },
+    "scope2": {
+      "mape": 1.16,
+      "rmse": 0.06,
+      "r2": NaN
+    },
+    "scope3": {
+      "mape": 29.99,
+      "rmse": 6.9,
+      "r2": NaN
+    }
+  },
+  "training_date": "2025-12-19T07:50:37.590981",
+  "model_type": "XGBoost-Hybrid",
+  "features": [
+    "production",
+    "revenue",
+    "year_index",
+    "emission_intensity",
+    "production_growth",
+    "cumulative_production"
+  ]
+}
