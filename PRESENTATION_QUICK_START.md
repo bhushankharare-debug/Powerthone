@@ -42,7 +42,7 @@ You have **4 comprehensive guides**:
 
 ## 🎯 Choose Your Presentation Type
 
-### For Board/C-Suite (10 minutes)
+### For Board/C-Suite 
 ```
 1. Open: MODEL_EXPLANATION_VISUAL.md → "Decision Matrix" section
    Show: 3-scenario comparison, risk/reward
@@ -61,7 +61,7 @@ You have **4 comprehensive guides**:
 5. Next Steps: Ask for board approval of Phase 1 capex ($75M)
 ```
 
-### For CFO/Investment Committee (20 minutes)
+### For CFO/Investment Committee
 ```
 1. Context: STAKEHOLDER_PRESENTATION.md → "Executive Summary"
    "We're planning a $500M+ sustainability investment.
@@ -80,7 +80,7 @@ You have **4 comprehensive guides**:
 5. Recommendation: "Aggressive pathway, phase capex $35M/year"
 ```
 
-### For Sustainability/ESG Team (30 minutes)
+### For Sustainability/ESG Team 
 ```
 1. Model: TECHNICAL_ARCHITECTURE.md → "XGBoost-Hybrid Model"
    Deep dive: Why this approach, how it works
@@ -98,7 +98,7 @@ You have **4 comprehensive guides**:
 5. Alignment: "GHG Protocol ✓ SBTi ✓ TCFD ✓ SEC Compliant"
 ```
 
-### For Operations/Plant Managers (15 minutes)
+### For Operations/Plant Managers 
 ```
 1. Vision: "Here's what we need to achieve operationally"
    Show: 3 scenarios, pick one
@@ -394,88 +394,3 @@ When you present this, you have:
 
 Most companies don't have this level of rigor. 
 You do. Own it. 💪
-
----
-
-## 🚀 Last-Minute Tips
-
-**If you have 5 minutes**: Just show the decision matrix slide. 
-"We recommend Aggressive. Ask if you have questions."
-
-**If you have 15 minutes**: Show situation → scenarios → decision matrix → financials → recommendation.
-
-**If you have 30 minutes**: Deep dive using all your guides. 
-Walk through model, confidence, scenarios, financials, roadmap.
-
-**If someone asks for the model**: Give them TECHNICAL_ARCHITECTURE.md
-
-**If someone asks "Is this compliant?"**: 
-"Yes - GHG Protocol, SBTi 1.5°C, TCFD, SEC climate disclosure."
-
-**If someone asks "When do we break even?"**: 
-"Year 8 on avoided carbon taxes. Year 5 on energy savings alone."
-
----
-
-## 📞 Questions You'll Definitely Get (And Answers)
-
-| Question | Answer Source | Quick Answer |
-|----------|---|---|
-| "How accurate is this?" | TECHNICAL_ARCHITECTURE.md | 89% (industry standard) |
-| "Why $500M?" | STAKEHOLDER_PRESENTATION.md | ROI is $750M+ value |
-| "What if tech doesn't work?" | STAKEHOLDER_PRESENTATION.md | Phased approach, Plan B |
-| "What's our Scope 1 target?" | MODEL_EXPLANATION_VISUAL.md | -8%/year to Net Zero |
-| "Are we regulatory compliant?" | TECHNICAL_ARCHITECTURE.md | Yes - GHG, SBTi, TCFD |
-| "When do we go Net Zero?" | MODEL_EXPLANATION_VISUAL.md | 2050-2055 |
-| "What if policy changes?" | TECHNICAL_ARCHITECTURE.md | Built-in uncertainty bands |
-| "Show me the science" | TECHNICAL_ARCHITECTURE.md | XGBoost model explained |
-
----
-
-## 🎬 Your Closing Statement
-
-Use this to wrap up any presentation:
-
-```
-"We have a 30-year emissions forecast based on AI and 5 years 
-of actual data. The model is 89% accurate.
-
-We see three futures: Business as usual (unsustainable), 
-gradual transition (compliant), aggressive net zero (leader).
-
-We recommend aggressive because:
-• It's financially positive (ROI positive by Year 8)
-• It's strategically necessary (regulatory, investor, customer pressure)
-• It's operationally achievable (phased approach, proven technologies)
-
-Choosing this path positions us as an ESG leader and future-proofs 
-the business for the next 30 years.
-
-I recommend we approve Phase 1 capex of $75M and move forward.
-
-Questions?"
-```
-
----
-
-## 📚 File Location Reference
-
-When presenting, you can say:
-
-- "Here's the detailed science" → TECHNICAL_ARCHITECTURE.md
-- "Here's how we present to your peer group" → STAKEHOLDER_PRESENTATION.md  
-- "Here's the visual explanation" → MODEL_EXPLANATION_VISUAL.md
-- "Here's the quick reference" → PRESENTATION_QUICK_START.md
-
----
-
-**You're Ready To Present! 🎉**
-
-Your project has:
-- ✅ Solid science (XGBoost model, 89% accuracy)
-- ✅ Clear strategy (3 scenarios, recommendation)
-- ✅ Strong financials (ROI positive, $750M+ value)
-- ✅ Comprehensive documentation (4 guides)
-- ✅ Stakeholder talking points (ready to go)
-
-Now go present this to your leadership and make it happen! 🚀
