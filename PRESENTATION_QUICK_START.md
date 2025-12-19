@@ -10,33 +10,27 @@ This document is your **roadmap** to using all the guides to present to any stak
 
 You have **4 comprehensive guides**:
 
-### 1. **TECHNICAL_ARCHITECTURE.md** (12,000+ words)
+### 1. **TECHNICAL_ARCHITECTURE.md**
    - Deep dive into XGBoost-Hybrid model
    - How confidence (89%) is calculated
    - How AI insights are generated
    - Model limitations and future roadmap
    - **Use for**: Technical audiences, data scientists, ESG teams
 
-### 2. **STAKEHOLDER_PRESENTATION.md** (10,000+ words)
+### 2. **STAKEHOLDER_PRESENTATION.md**
    - How to present to Board, CFO, Operations
    - Tough questions with answers
    - Financial impact analysis
    - Talking points for each scenario
    - **Use for**: Executive pitches, investor meetings, decision-makers
 
-### 3. **MODEL_EXPLANATION_VISUAL.md** (5,000+ words)
+### 3. **MODEL_EXPLANATION_VISUAL.md**
    - Visual diagrams of data flow
    - How XGBoost learns from data
    - Confidence interval visualizations
    - Investment decision matrix
    - Implementation timeline
    - **Use for**: Visual learners, quick explanations, board decks
-
-### 4. **PRESENTATION_QUICK_START.md** (This file)
-   - Navigation guide
-   - Copy-paste talking points
-   - Presentation templates
-   - **Use for**: Quick reference while presenting
 
 ---
 
